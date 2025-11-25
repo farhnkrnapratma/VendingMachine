@@ -1,0 +1,90 @@
+# Node.js / Bun (Backend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+bun.lockb
+.npm
+.yarn/
+dist/
+build/
+*.log
+
+# Python (CLI)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.coverage
+htmlcov/
+
+# uv (Python package manager)
+.python-version
+uv.lock
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Build outputs
+dist/
+build/
+out/
+target/
+
+# Testing
+coverage/
+.nyc_output/
+test-results/
+
+# Documentation builds
+docs/_build/
+site/
+
+# Project-specific
+.claude/
+*.pdf
