@@ -1,4 +1,4 @@
-# BobaMachine
+# VendingMachine
 
 A Python vending machine application that simulates a beverage dispensing system.
 
