@@ -11,15 +11,15 @@ def pilih_minuman():
     print(" "*15 + "MENU MINUMAN")
     print("="*50)
     menu = {
-        "1": {"nama": "Kopi", "harga": 5000},
-        "2": {"nama": "Teh", "harga": 3000},
-        "3": {"nama": "Jus Jeruk", "harga": 8000},
-        "4": {"nama": "Air Mineral", "harga": 3000},
-        "5": {"nama": "Susu", "harga": 6000},
-        "6": {"nama": "Cappuccino", "harga": 10000},
-        "7": {"nama": "Green Tea", "harga": 4000},
-        "8": {"nama": "Cokelat Panas", "harga": 7000},
-        "9": {"nama": "Lemon Tea", "harga": 4000},
+        "1": {"nama": "NesCafe", "harga": 9000},
+        "2": {"nama": "Coca Cola", "harga": 7000},
+        "3": {"nama": "Sprite", "harga": 8000},
+        "4": {"nama": "Red Bull", "harga": 25000},
+        "5": {"nama": "Milo", "harga": 9000},
+        "6": {"nama": "Pocari Sweat", "harga": 8000},
+        "7": {"nama": "Fanta", "harga": 8000},
+        "8": {"nama": "DayDay", "harga": 7000},
+        "9": {"nama": "Lemon Tea", "harga": 5000},
         "10": {"nama": "Smoothie", "harga": 12000}
     }
     
